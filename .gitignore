@@ -1,0 +1,21 @@
+# Student-identifying report sources and output PDFs; retain local copies.
+/report.Rmd
+/report.pdf
+/DTS_204_Lab_Assessment_Chisom_Nnamani.pdf
+
+# Assessment instructions are not redistributed with this project.
+/DTS 204- LAB ASSESSMENT.pdf
+
+# R, editor, operating system, and LaTeX build artifacts.
+.Rhistory
+.RData
+.Rproj.user/
+.DS_Store
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+*.toc
+*.tex
